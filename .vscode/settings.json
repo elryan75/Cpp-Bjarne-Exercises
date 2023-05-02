@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "__threading_support": "cpp",
+        "chrono": "cpp",
+        "ostream": "cpp",
+        "thread": "cpp",
+        "__mutex_base": "cpp"
+    }
+}
